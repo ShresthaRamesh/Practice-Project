@@ -13,5 +13,6 @@ button.addEventListener("click", () => {
     } else {
         bulb.src = "LightON.png"
         button.textContent = "Turn ON";
+        
     }
 });
